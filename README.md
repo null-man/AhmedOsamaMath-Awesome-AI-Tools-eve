@@ -135,6 +135,24 @@ This repository provides a curated list of AI tools, with details on their uses,
     - **Trial Period**: Free to try.
     - **Link**: [Visit LandscapioAI](https://www.landscapioai.com/)
 
+7. **KDA Firestarter AI Dance**  
+   - **Description**: Independent unofficial AI: one photo → 13s 480p 21:9 solo dance (Paid from $7.99). Not affiliated with Riot Games or K/DA.
+   - **Pricing**: Paid from $7.99
+   - **Trial Period**: Paid packs (one-time).
+   - **Link**: [Visit KDA Firestarter AI Dance](https://kdafirestarterai.dev)
+
+8. **A2O LITE NEON AI Dance**  
+   - **Description**: Independent AI: two photos → 15s 480p 16:9 duo neon dance with reference soundtrack (Paid from $7.99).
+   - **Pricing**: Paid from $7.99
+   - **Trial Period**: Paid packs (one-time).
+   - **Link**: [Visit A2O LITE NEON AI Dance](https://a2oliteai.org)
+
+9. **dime dime baby ai**  
+   - **Description**: Independent AI: one photo → ~5s 480p 9:16 AI dance (Quince Classic or Party Groove) (Paid from $7.99).
+   - **Pricing**: Paid from $7.99
+   - **Trial Period**: Paid packs (one-time).
+   - **Link**: [Visit dime dime baby ai](https://dimedimebabyai.dev)
+
 ### Text Generation
 1. **ChatGPT**  
    - **Description**: A conversational AI tool by OpenAI for generating text and engaging in discussions.
