@@ -152,6 +152,9 @@ This repository provides a curated list of AI tools, with details on their uses,
    - **Pricing**: Paid from $7.99
    - **Trial Period**: Paid packs (one-time).
    - **Link**: [Visit dime dime baby ai](https://dimedimebabyai.dev)
+- **[PromptImage](https://promptimage.cloud)** — Free AI image & video studio with a prompt library (signup credits, multi-model). Freemium.
+- **[TeslaWraps](https://teslawraps.design)** — Browser Tesla Paint Shop wrap designer — core editing + PNG export free without account; optional AI credits. Freemium.
+- **[GrokVideo Studio](https://grokvideogenerator.dev)** — Independent web app for text/image-to-video via Grok Imagine API (Free Trial, 20 credits). Not an official xAI or X product.
 
 ### Text Generation
 1. **ChatGPT**  
